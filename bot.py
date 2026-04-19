@@ -12,8 +12,8 @@ from aiogram.fsm.storage.memory import MemoryStorage
 BOT_TOKEN     = "8014382152:AAGi8WmBc1MO_kPKBCJ0DPIXHQZotlc6ZVU"
 CHANNEL_1     = "@trupnoe1"
 CHANNEL_2     = "@shizomiu"
-SITE_URL      = "https://шизо.мью.рф"
-API_BASE      = "https://шизо.мью.рф"
+SITE_URL      = "https://шизо-мью.рф"
+API_BASE      = "https://шизо-мью.рф"
 BANNER_PATH   = "banner.jpg"
 ADMIN_IDS     = "5888314402"
 # ==============================
